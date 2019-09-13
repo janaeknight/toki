@@ -1,6 +1,6 @@
 /*
 body {
-    width: 100vw;
+    width: 100vw; 
     background: rgb(243,243,246);
     background: -moz-linear-gradient(0deg, rgba(243,243,246,1) 0%, rgba(243,243,245,1) 10%, rgba(243,243,244,1) 20%, rgba(243,243,243,1) 30%, rgba(243,243,242,1) 40%, rgba(243,243,241,1) 50%, rgba(243,243,245,1) 60%);
     background: -webkit-linear-gradient(0deg, rgba(243,243,246,1) 0%, rgba(243,243,245,1) 10%, rgba(243,243,244,1) 20%, rgba(243,243,243,1) 30%, rgba(243,243,242,1) 40%, rgba(243,243,241,1) 50%, rgba(243,243,245,1) 60%);
